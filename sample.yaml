@@ -1,0 +1,18 @@
+---
+people:
+- Id: 1
+  FirtsName: Shatish
+  LastName: Nedumaran
+  Email: nshatish@gmail.com
+- Id: 2
+  FirtsName: Venkat
+  LastName: Nivas
+  Email: venkat.nivas@gmail.com
+- Id: 3
+  FirtsName: Sreekanth
+  LastName: Payala
+  Email: sreekanth.payala@gmail.com
+...
+---
+first: one
+second: 2
